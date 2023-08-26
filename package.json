@@ -1,0 +1,22 @@
+{
+  "name": "electron-fileupload",
+  "version": "1.0.0",
+  "description": "File Upload in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "TJS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csv-writer": "^1.6.0",
+    "electron": "^8.2.5",
+    "exceljs": "^4.3.0",
+    "fs-jetpack": "^5.1.0",
+    "xlsx": "^0.18.5"
+  }
+}
